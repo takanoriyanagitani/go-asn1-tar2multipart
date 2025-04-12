@@ -23,3 +23,5 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/asn1-tar2multipart/asn1-tar2multipart
